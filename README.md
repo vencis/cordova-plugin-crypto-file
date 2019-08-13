@@ -81,6 +81,7 @@ or
 * .htm
 * .js
 * .css
+* .key
 
 ### Edit subjects
 
